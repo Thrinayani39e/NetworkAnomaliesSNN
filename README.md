@@ -1,0 +1,1 @@
+This repository contains the implementation of a Spiking Neural Network (SNN) enhanced with Multihead Attention mechanisms. This repo represents the final, optimized iteration resulting from extensive experimentation with various architectures, optimizers, and hyperparameters and the experimentation process.
